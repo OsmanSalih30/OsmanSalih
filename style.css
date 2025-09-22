@@ -1,0 +1,93 @@
+#beautiful-city{
+  background-color: rgba(56,120,90,0.2);
+  width: 100vw;
+  border: 5px solid rgba(60,100,80,0.8)
+  
+  }
+
+    .city {
+      color: maroon;
+      font-size: 95px;
+      text-align: center;
+
+    }
+    #cute-city {
+      width: 350px;
+      padding-bottom: 10px;     
+    
+    } 
+
+     #semaetat-street {
+      margin: 3px;
+      border: 2px solid rgb(200, 15, 180);
+      width:180px;
+      height:150px;
+      float: right;
+
+      }
+
+    #redsea-building {
+      display: block;
+      margin: 0 auto;
+      height: 300px;
+      max-width: 97vw;
+      border: 5px solid rgba(80,10,100,1);
+      
+
+      }
+
+    h2 {
+
+      color: rgba(50, 60, 110, 0.6);
+      text-align: center;
+      font-family: cursive;
+      font-size: 40px;
+      background-color: rgba(90, 20, 220, 0.5);
+      border: 5px solid powderblue;
+      padding:10px;
+
+    }
+
+    #about-asmara {
+      color: rgb(230, 50, 160);
+      font-family: cursive;
+
+    }
+.population-asmara{
+     width:176px;
+     height:130;
+     border:2px solid orange;
+  }
+.city-photo{
+  width: 175px;
+  height: auto;
+  margin:5px;
+  border:2px solid #f5a2b9; 
+  }
+
+    h3 {
+
+      font-size: 30px;
+      background-color: rgba(90, 20, 220, 0.5);
+      color: rgba(100, 50, 160, 0.6);
+      text-align: center;
+      border: 3px solid powderblue;    
+    }
+
+h4 {
+      font-size: 30px;
+      background-color: rgb(90, 20, 220, 0.5);
+      color: rgba(100, 50, 160, 0.6);
+      text-align: center;
+      border: 3px solid powderblue;     
+
+    }   
+
+    .link-wiki{
+      font-family:verdana;
+      color:blue;
+      margin:20px;
+      margin-bottom:5px;
+      padding:5px;
+
+      }
